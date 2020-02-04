@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ingaethai.weightsandmeasures.org/sitemap.xml
